@@ -9,6 +9,8 @@ import tabulate
 
 DEBUG = False
 
+Hello = ["Hello World!"]
+
 schools = ["Pomona","Scripps","Scripps","Scripps","CMC","Scripps",
     "Scripps","Scripps","Pitzer","Pitzer","Scripps","Scripps",
     "Pomona","Pomona","Scripps","Pitzer","Scripps","Pomona",

@@ -4,8 +4,8 @@ num_friends = [100.0,49,41,40,25,21,21,19,19,18,18,16,15,15,15,15,14,14,13,13,13
 from collections import Counter
 import matplotlib.pyplot as plt
 
-from ejarquin22.linear_algebra import sum_of_squares
-from ejarquin22.linear_algebra import dot
+from byscratch.linear_algebra import sum_of_squares
+from byscratch.linear_algebra import dot
 
 friend_counts = Counter(num_friends)
 xs = range(101)                         # largest value is 100
